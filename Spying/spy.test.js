@@ -1,3 +1,4 @@
+// spying --> Keep an eye on the function when its called      
 const myModule = require('./spy');
 
 test("should spy on myFunction and check if it was called", () => {
